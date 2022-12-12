@@ -1,0 +1,15 @@
+C:\Users\งงนะ\Desktop\Final_1075\bin\Debug\net6.0\Final_1075.exe
+C:\Users\งงนะ\Desktop\Final_1075\bin\Debug\net6.0\Final_1075.deps.json
+C:\Users\งงนะ\Desktop\Final_1075\bin\Debug\net6.0\Final_1075.runtimeconfig.json
+C:\Users\งงนะ\Desktop\Final_1075\bin\Debug\net6.0\Final_1075.dll
+C:\Users\งงนะ\Desktop\Final_1075\bin\Debug\net6.0\Final_1075.pdb
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.csproj.AssemblyReference.cache
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.AssemblyInfoInputs.cache
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.AssemblyInfo.cs
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.csproj.CoreCompileInputs.cache
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.dll
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\refint\Final_1075.dll
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.pdb
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\Final_1075.genruntimeconfig.cache
+C:\Users\งงนะ\Desktop\Final_1075\obj\Debug\net6.0\ref\Final_1075.dll
